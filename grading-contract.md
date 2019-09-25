@@ -17,7 +17,7 @@ Unessay Schedule:
 + Unessay #1 is due before dawn on Tuesday, October 22
 + Unessay #2 is due before dawn on Tuesday, December 3
 
-"Signed":
+Signed:
 
-+ David Polansky
++ ____________
 + ____________
