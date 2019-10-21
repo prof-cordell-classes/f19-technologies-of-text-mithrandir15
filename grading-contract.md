@@ -5,7 +5,7 @@ I, David Polansky agree to…
 3. Take no more than one information overload day during the semester.
 4. Exceed expectations regarding in-class device according to the policies outlined in the device use rubric.
 5. Write at least nine “Satisfactory” lab reports over the course of the semester. As specified in the assignment, lab reports are due within one week of the pertinent laboratory activity.
-6. Complete two “Satisfactory” Unessays on the schedule specified below and present the strongest in class on December 4.
+6. Complete two “Satisfactory” Unessays on the schedule specified below and present the strongest in class on December.
 7. Come to class prepared to discuss any assigned readings, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
 8. Meet with Prof. Cordell in person—during office hours or another scheduled time—at least once around midterm—roughly between weeks 5-8—to ensure I am on-track to meet these contract requirements, discuss any questions or concerns I have about the course or my progress, and decide on any necessary contract amendments.
 9. Contribute significantly to a detailed, inventive Dead Media Poster presentation on October 30th.

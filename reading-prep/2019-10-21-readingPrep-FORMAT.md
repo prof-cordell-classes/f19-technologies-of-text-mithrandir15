@@ -1,0 +1,10 @@
+# Reading Prep: FORMAT
+
+#### David Polansky
+
+## Questions or Observations
+
+1. In the "Interleaf" chapter, I was delighted to find a feature that I wasn't previously expecting. The interleaf, of course, forced me to read in a way that was different than usual; form reflected content. I found myself forgetting to read the two pages as one (moving to the next line on the same page instead of moving to the opposite page), producing a bit of confusion - but as I did so, I discovered that some phrases I read in this "incorrect" manner actually made sense. For instance: "I uncurled... two hardbacks in my book bag", "But ejecting the laptop from my lap turned out not to stem the... reading", "I'd thought of books as what you picked up when you were... running laps" (all from 110), or my personal favorite, "The Romans needed no chair to sit on or table on which... standing allowed the voice to project" (113). I can't tell if this was intentional (certainly, most of what one reads this way in the Interleaf doesn't make grammatical sense), or if this is a natural consequence of skipping lines on a page.
+2. Again, I've got to disagree with a couple minor points Price makes - these ones on pages 85 and 86. "When the goal is a literate new generation of men, women's literacy is only important as a means to an end" - I think this is an excessively uncharitable reaction to Laning's murals of writing technology. The "goal" being showcased isn't "literate... men", it's the progression of technologies of text. And maybe not even the *progression*, so much as the *history* - contra Price, who says the mural "emphasizes the advantages of flimsy, nondescript paper." 
+3. It took me a while to realize that the Baxter story was, indeed, fictional. (I had to look it up afterwards to make sure.) The conceit of inaccessability rendering something more socially valuable is something I've explored before in an essay on Aesop Rock's lyrics - his use of obscure language and complex imagery rewards careful listening in a way that clearer lyrics don't do, and make the listener who *has* deciphered the song feel like the 
+
