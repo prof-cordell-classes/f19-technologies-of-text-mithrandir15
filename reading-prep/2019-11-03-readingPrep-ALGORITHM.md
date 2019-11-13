@@ -11,3 +11,10 @@
 2. Padua frequently used "Difference Engine" in place of "Analytical Engine" because the former "sounds cooler". First, I quite disagree - Analytical Engine sounds way cooler. Second, this relates to an ongoing theme of the book - the conflict between mathematical conservatism and innovativeness. Departing from the concrete to the abstract can open new horizons, and so too (the author thinks) can jumping from the historical to the fantastical.
 3. Padua gives the quote "[Babbage] spoke highly of her mathematical powers, and of her peculiar capability - higher he said than of any one he knew, to prepare (I believe it was) the descriptions connected with his calculating machine..." to defend Ada's status as an "enchanted math fairy" - which, I agree, seems to put to rest any claims of an incompetent Ada. But in the very same quote: "he described her as utterly unimaginative..." (!!!) It's possible that Reed means that Babbage described Ada unimaginative*ly*, but that's doubtful - if Ada was indeed unimaginative, it wasn't mentioned at all by the author, and casts doubts on how well we can know the character of any political figure, even those as well-documented as the Countess of Lovelace.
 
+
+32
+178
+233
+25
+
+
